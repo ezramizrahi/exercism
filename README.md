@@ -3,8 +3,7 @@ Exercism solutions. Consolidated from several different accounts over the years.
 
 Languages:
 - JavaScript
-- Go
-- Haskell
+- Ruby
 - Kotlin
 - Elixir
-- Ruby
+- Haskell
