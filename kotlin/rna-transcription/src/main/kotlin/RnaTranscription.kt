@@ -7,6 +7,5 @@ fun transcribeToRna(dna: String = ""): String {
       if (s.toString() == "T") result += "A"
       if (s.toString() == "A") result += "U"
   }
-  if (dna.isBlank()) result += dna.toString()
   return result
 }
