@@ -7,3 +7,4 @@ Languages:
 - Kotlin
 - Elixir
 - Haskell
+- Go
